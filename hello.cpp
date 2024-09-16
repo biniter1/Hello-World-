@@ -4,5 +4,5 @@ using namespace std;
 int main()
 {
     cout<<"hello";
-    return ;
+    return 1;
 }
