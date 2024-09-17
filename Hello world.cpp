@@ -1,5 +1,5 @@
 
-#include <iostream> #kho noi
+#include <iostream> 
 
 
 int main(void) {
