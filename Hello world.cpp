@@ -1,7 +1,4 @@
-
-#include <iostream> #de noi
-
-
+#include <iostream> 
 int main(void) {
     std::cout << "Hello world";
     return 0;
